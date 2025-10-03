@@ -24,6 +24,8 @@ Customizable for different chat platforms using screen coordinates.
 
 **Location:** India
 
+
+
 **Setup & Installation**
 
 Clone the repository.
