@@ -1,8 +1,8 @@
-🤖 Python AI Chatbot
+**🤖 Python AI Chatbot**
 
 A Python AI Chatbot that uses Google Gemini AI and PyAutoGUI to automatically read messages and reply intelligently. Supports English, Hindi, and Telugu.
 
-About
+**About**
 
 Detects the latest message in a chat dynamically.
 
@@ -12,19 +12,19 @@ Automates sending responses by simulating mouse and keyboard actions.
 
 Customizable for different chat platforms using screen coordinates.
 
-Author
+**Author**
 
-Name: Mylapilli Sampath Kumar
+**Name:** Mylapilli Sampath Kumar
 
-Roll No: 2023-2415196
+**Roll No:** 2023-2415196
 
-Course: B.Sc Computer Science (Honours)
+**Course:** B.Sc Computer Science (Honours)
 
-College: Gayatri Vidya Parishad College for Degree and PG Courses (Autonomous)
+**College:** Gayatri Vidya Parishad College for Degree and PG Courses (Autonomous)
 
-Location: India
+**Location:** India
 
-Setup & Installation
+**Setup & Installation**
 
 Clone the repository.
 
@@ -34,7 +34,7 @@ Set your Google Gemini API key using environment variables.
 
 Track and configure screen coordinates if needed.
 
-Usage
+**Usage**
 
 Identify coordinates for chat elements (optional but recommended).
 
